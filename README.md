@@ -40,5 +40,6 @@ Some notes on implementation will be in `wasm-bin/`, too.
 First-party apps are in `apps/`.
 Expect to see:
 
-* `apps/2fa/`, an implementation of TOTP with support for scanning barcodes.
+* `apps/settings/`, the settings app.
+* `apps/mfa/`, an implementation of TOTP with support for scanning barcodes.
 * `apps/internet/`, a very close fork of Firefox.

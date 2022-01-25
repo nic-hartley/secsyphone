@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "spad", "selinuxd", "wasm-bin", "wasm-sys",
+    "apps/internet", "apps/mfa", "apps/settings"
+]
